@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sushantmakar
-- 👀 I’m interested in learning new things and exploring new opportunities to help businesses grow and achieve their goals.
+- 👀 I’m interested in learning new things and explore new opportunities to help businesses grow and achieve their goals.
 - 🌱 My favourite quote is "The more you sweat in peace, the less you bleed in war"
-- 💞️ I’m a progressive Technology Leader in Healthcare industry
+- 💞️ I’m a Progressive Technology Leader in Healthcare industry
 - 📫 You can reach me on easysushant@gmail.com
 
 <!---
